@@ -17,6 +17,8 @@ I design and build end-to-end web applications, from responsive user interfaces 
 
 ### ScopeBeacon — original full-stack application
 
+**[Live interactive sample](https://scopebeacon-demo.vercel.app/demo)** · [Source code](https://github.com/marcelobregoli/scopebeacon)
+
 A project-delivery workspace for independent developers and small teams. It combines private project/task management with revocable, read-only client progress pages that expose milestones and aggregate progress without revealing internal task notes.
 
 **Built with:** React 19, TypeScript, Vite, Hono, Node.js, SQLite, Zod, Vitest, and GitHub Actions.

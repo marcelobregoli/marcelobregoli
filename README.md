@@ -23,7 +23,7 @@ My public work spans an original full-stack application, browser-automation main
 
 ### 1. ScopeBeacon — original full-stack application
 
-**[Live interactive sample](https://scopebeacon.digitaligamesml.workers.dev)** · [Source code](https://github.com/marcelobregoli/scopebeacon) · [Case study](https://marcelo-bregoli.pages.dev/projects/scopebeacon.html)
+**[Live interactive sample](https://scopebeacon.digitaligamesml.workers.dev)** · [Source code](https://github.com/marcelobregoli/scopebeacon) · [Case study](https://marcelo-bregoli.pages.dev/projects/scopebeacon)
 
 A project-delivery workspace for independent developers and small teams. It combines private project/task management with revocable, read-only client progress pages that expose milestones and aggregate progress without revealing internal task notes.
 
@@ -33,7 +33,7 @@ This is an independently built portfolio MVP, not a client deployment or a produ
 
 ### 2. Browser AI Bridge — maintained public fork
 
-[My fork](https://github.com/marcelobregoli/browser-ai-bridge) · [Upstream project by Jeffrey NZ](https://github.com/jeffrey-nz/browser-ai-bridge) · [Case study](https://marcelo-bregoli.pages.dev/projects/browser-ai-bridge.html)
+[My fork](https://github.com/marcelobregoli/browser-ai-bridge) · [Upstream project by Jeffrey NZ](https://github.com/jeffrey-nz/browser-ai-bridge) · [Case study](https://marcelo-bregoli.pages.dev/projects/browser-ai-bridge)
 
 A community browser-automation project. My fork contains maintenance work around provider-specific browser interactions, session-state detection, tab ownership, response handling, dependency updates and test tooling. The original upstream project and maintainer are explicitly credited.
 
@@ -41,7 +41,7 @@ Use is subject to each provider’s current terms and permissions. This project 
 
 ### 3. Thunderbridge — experimental Rust mail-protocol bridge
 
-[Source code](https://github.com/marcelobregoli/thunderbridge) · [Case study](https://marcelo-bregoli.pages.dev/projects/thunderbridge.html)
+[Source code](https://github.com/marcelobregoli/thunderbridge) · [Case study](https://marcelo-bregoli.pages.dev/projects/thunderbridge)
 
 An independent Rust project exploring local IMAP/SMTP access to Proton Mail through its web API, with local PGP operations and encrypted session storage. It is not affiliated with or endorsed by Proton AG.
 

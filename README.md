@@ -1,57 +1,60 @@
 # Marcelo Bregoli
 
-### Full-Stack Developer · React · TypeScript · Node.js · APIs
+### Entrepreneur · Digital ventures · Full-stack software
 
-I design and build end-to-end web applications, from responsive user interfaces and REST APIs to data models, authentication, testing, and deployment workflows. I value practical product thinking, maintainable architecture, security-conscious implementation, and verifiable delivery.
+I’m Marcelo Daniel Bregoli. I work across digital ventures, business strategy and technology, taking ideas from opportunity assessment through product design, software implementation and operational execution.
+
+My public work spans an original full-stack application, browser-automation maintenance and an experimental Rust mail-protocol bridge. I value practical product thinking, maintainable architecture, security-conscious implementation and evidence-backed delivery.
+
+**Personal website:** https://marcelo-bregoli.pages.dev/
 
 ## Technical focus
 
+- **Product and strategy:** opportunity assessment, product definition, delivery planning and business development
 - **Frontend:** React, TypeScript, responsive interfaces, Vite
 - **Backend:** Node.js, Hono, REST APIs, request validation
+- **Systems:** Rust, IMAP/SMTP protocol work, API integration
 - **Data:** SQLite, relational data modelling, application persistence
-- **Security:** password hashing, session management, authorization boundaries, privacy-aware API design
-- **Quality and delivery:** Vitest, TypeScript checks, CI, dependency audits, production smoke tests, technical documentation
-- **Automation:** browser automation, Playwright, and workflow tooling
+- **Security engineering:** password hashing, session management, authorization boundaries and local cryptographic operations
+- **Quality and delivery:** Vitest, TypeScript checks, CI, dependency audits, smoke tests and technical documentation
+- **Automation:** Playwright, browser workflows and developer tooling
 
-## Selected work
+## Selected public projects
 
-### ScopeBeacon — original full-stack application
+### 1. ScopeBeacon — original full-stack application
 
-**[Live interactive sample](https://scopebeacon.digitaligamesml.workers.dev)** · [Source code](https://github.com/marcelobregoli/scopebeacon)
+**[Live interactive sample](https://scopebeacon.digitaligamesml.workers.dev)** · [Source code](https://github.com/marcelobregoli/scopebeacon) · [Case study](https://marcelo-bregoli.pages.dev/projects/scopebeacon.html)
 
 A project-delivery workspace for independent developers and small teams. It combines private project/task management with revocable, read-only client progress pages that expose milestones and aggregate progress without revealing internal task notes.
 
-**Built with:** React 19, TypeScript, Vite, Hono on Cloudflare Workers, D1, Zod, Vitest, and GitHub Actions.
+**Built with:** React 19, TypeScript, Vite, Hono on Cloudflare Workers, D1, Zod, Vitest and GitHub Actions.
 
-The repository includes architecture/API/security documentation, automated tests, a production smoke test, and a responsive UI screenshot. The project is an independently built portfolio application; it is not presented as a client deployment.
+This is an independently built portfolio MVP, not a client deployment or a production-ready SaaS. The repository documents remaining operational and security-readiness work.
 
-- [Source code and setup](https://github.com/marcelobregoli/scopebeacon)
-- [Product screenshot](https://raw.githubusercontent.com/marcelobregoli/scopebeacon/main/docs/screenshots/demo-dashboard.png)
+### 2. Browser AI Bridge — maintained public fork
 
-### Browser AI Bridge — maintained fork
+[My fork](https://github.com/marcelobregoli/browser-ai-bridge) · [Upstream project by Jeffrey NZ](https://github.com/jeffrey-nz/browser-ai-bridge) · [Case study](https://marcelo-bregoli.pages.dev/projects/browser-ai-bridge.html)
 
-A fork of [Jeffrey NZ's upstream Browser AI Bridge project](https://github.com/jeffrey-nz/browser-ai-bridge). The upstream project remains credited to its original maintainer; this repository contains my fork-specific work.
+A community browser-automation project. My fork contains maintenance work around provider-specific browser interactions, session-state detection, tab ownership, response handling, dependency updates and test tooling. The original upstream project and maintainer are explicitly credited.
 
-Contributions in this fork include dependency modernization and audit remediation, browser interaction refinements, and fork-specific setup documentation.
+Use is subject to each provider’s current terms and permissions. This project must not be used to automate ChatGPT web prompt submission, extract ChatGPT web outputs or bypass service limits; use officially supported APIs or integrations for automated ChatGPT workflows.
 
-[View my fork](https://github.com/marcelobregoli/browser-ai-bridge) · [View upstream](https://github.com/jeffrey-nz/browser-ai-bridge)
+### 3. Thunderbridge — experimental Rust mail-protocol bridge
 
-### Personal website
+[Source code](https://github.com/marcelobregoli/thunderbridge) · [Case study](https://marcelo-bregoli.pages.dev/projects/thunderbridge.html)
 
-Background, current work, and a contact route:
+An independent Rust project exploring local IMAP/SMTP access to Proton Mail through its web API, with local PGP operations and encrypted session storage. It is not affiliated with or endorsed by Proton AG.
 
-[marcelo-bregoli.pages.dev](https://marcelo-bregoli.pages.dev/)
+This project handles highly sensitive mailbox credentials and private keys. Its security has not been independently audited; it is presented as experimental engineering work, not as a production-certified or officially supported Proton product.
 
-## Work and collaboration
+## Personal website and contact
 
-I am open to full-stack development roles, freelance projects, sponsorships for open-source work, and technical collaborations involving web applications, APIs, integrations, and automation.
+Background, project case studies and a contact route:
 
-For work enquiries, use the [contact form on my website](https://marcelo-bregoli.pages.dev/).
+**[marcelo-bregoli.pages.dev](https://marcelo-bregoli.pages.dev/)**
 
-## Open-source support
-
-My GitHub Sponsors application has been submitted and is awaiting GitHub review. I will add the sponsorship link here once the profile is approved and active.
+For business, software and technical collaboration enquiries, use the [website contact form](https://marcelo-bregoli.pages.dev/#contact).
 
 ---
 
-*Project attribution matters: ScopeBeacon is an original portfolio application; Browser AI Bridge is a fork, and upstream authorship is credited above. I only feature work where ownership and contributions can be described accurately.*
+*Project attribution and scope matter: ScopeBeacon is an original portfolio MVP; Browser AI Bridge is a fork with upstream attribution; Thunderbridge is an independent experimental project with explicit security limitations. Claims are limited to documented work and verifiable repositories.*
